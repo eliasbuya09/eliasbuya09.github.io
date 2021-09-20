@@ -5,7 +5,7 @@
 }
 
 body {   
-    background: url('../image/bg.gif') repeat center;
+    background: url('../image/ti.gif') repeat center;
     background-size: cover;
     background-position: center;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .card--area {
-    background: white;
+    background: lightseagreen;
     width: 900px;
     height: 500px;
     box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
